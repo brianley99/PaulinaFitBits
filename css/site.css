@@ -18,7 +18,8 @@ a {
 
 p,
 h6,
-tr {
+tr,
+li {
     color: white;
 }
 
